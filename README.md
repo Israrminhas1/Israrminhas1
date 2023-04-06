@@ -1,6 +1,6 @@
 ## ISRAR MINHAS -  PHP/Symfony/Laravel Developer
 # 💫 About Me:
-👋 Hi, I'm Junior PHP/Laravel/Symfony Developer.<br>🔭 I have work on Laravel web apps and API projects.<br>⚡ I am very handy and has developed great skills in my one-year working experience of Php/laravel.<br>🌱 I recently completed Backend Course in Jagaad academy where I gained knowledge in various technologies and stacks, including PHP development with OOP principles, MySQL/PDO, Composer, Docker, design patterns, AGILE methodology, SOLID principles, and frameworks such as Slim and Symfony. <br>✍️ You can check out my projects I have worked on during my studies at Jagaad Academy and beyond. 📚
+👋 Hi, I'm Junior PHP/Laravel/Symfony Developer.<br>🔭 I have work on Laravel web apps and API projects.<br>⚡ I am very handy and has developed great skills in my one-year working experience of Php/laravel.<br>🌱 I recently completed Backend Course in Jagaad academy where I gained knowledge on Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming, and frameworks such as Slim and Symfony. <br>✍️ You can check out my projects I have worked on during my studies at Jagaad Academy and beyond. 📚
 
 - <a href="https://github.com/Israrminhas1/Job-Board-API">Job Board API</a>
 - <a href="https://github.com/Israrminhas1/Blog-Post-API">Blog Post API</a>
