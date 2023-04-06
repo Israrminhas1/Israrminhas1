@@ -1,6 +1,10 @@
 ## ISRAR MINHAS -  PHP/Symfony/Laravel Developer
 # 💫 About Me:
-👋 Hi, I'm Junior PHP/Laravel/Symfony Developer.<br>🔭 I have work on Laravel web apps and API projects.<br>⚡ I am very handy and has developed great skills in my one-year working experience of Php/laravel.<br>🌱 I recently completed Backend Course in Jagaad academy where I gained knowledge in various technologies and stacks, including PHP development with OOP principles, MySQL/PDO, Composer, Docker, design patterns, AGILE methodology, SOLID principles, and frameworks such as Slim and Symfony. <br>✍️ I am currently in the process of learning and expanding my skills in Git deployment, Github, and Continuous Integration/Continuous Deployment (CI/CD) pipelines.<br>💻 Additionally, I am focusing on developing my proficiency in Automated Testing or Unit Testing, and Test Driven Development (TDD). My aim is to enhance my knowledge in various areas of software development to improve my overall capabilities as a developer.<br>🤔 I'm hoping to get some help with these things so that I can achieve my career goals.
+👋 Hi, I'm Junior PHP/Laravel/Symfony Developer.<br>🔭 I have work on Laravel web apps and API projects.<br>⚡ I am very handy and has developed great skills in my one-year working experience of Php/laravel.<br>🌱 I recently completed Backend Course in Jagaad academy where I gained knowledge in various technologies and stacks, including PHP development with OOP principles, MySQL/PDO, Composer, Docker, design patterns, AGILE methodology, SOLID principles, and frameworks such as Slim and Symfony. <br>✍️ You can check out my projects I have worked on during my studies at Jagaad Academy and beyond. 📚
+
+- <a href="https://github.com/Israrminhas1/Job-Board-API">Job Board API</a>
+- <a href="https://github.com/Israrminhas1/Blog-Post-API">Blog Post API</a>
+- <a href="https://github.com/Israrminhas1/Web-Shopping">Web Shop</a>
 
 
 ## 🌐 Socials:
