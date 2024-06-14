@@ -1,6 +1,6 @@
 ## ISRAR MINHAS -  PHP/Symfony/Laravel Developer
 # 💫 About Me:
-Hello! I am a versatile web developer with over 3 years of experience, specializing in PHP and Vue.js. My expertise extends across popular PHP frameworks like Laravel, Symfony, CodeIgniter, and CakePHP, coupled with proficient skills in Vue.js for creating interactive and responsive front-end designs.
+Hello! I am a versatile web developer with over 5 years of experience, specializing in PHP and Vue.js. My expertise extends across popular PHP frameworks like Laravel, Symfony, CodeIgniter, and CakePHP, coupled with proficient skills in Vue.js for creating interactive and responsive front-end designs.
 
 ## Why Choose Me:
 
