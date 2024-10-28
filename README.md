@@ -22,6 +22,7 @@ Regular Website Maintenance and Performance Optimization
 Looking for a dedicated and skilled web developer who can bring your ideas to life with cutting-edge technology? Let's discuss how we can achieve your digital objectives together.
 
 Showcasing My PHP Journey: A Collection of Practice Projects to Demonstrate My Skills and Creativity
+- <a href="https://github.com/Israrminhas1/Alumni-Portal">Alumni Network Portal (laravel)</a>
 - <a href="https://github.com/Israrminhas1/CRM">CRM (laravel)</a>
 - <a href="https://github.com/Israrminhas1/Job-Board-API">Job Board API</a>
 - <a href="https://github.com/Israrminhas1/Blog-Post-API">Blog Post API</a>
