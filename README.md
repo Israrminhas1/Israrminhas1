@@ -1,10 +1,10 @@
-## ISRAR MINHAS -  PHP/Symfony/Laravel Developer
+## ISRAR MINHAS -  PHP/Laravel Developer
 # 💫 About Me:
-Hello! I am a versatile web developer with over 5 years of experience, specializing in PHP. My expertise extends across popular PHP frameworks like Laravel, Symfony, CodeIgniter, and CakePHP, coupled with proficient skills in Livewire for creating interactive and responsive front-end designs.
+Hello! I am a versatile web developer with over 5 years of experience, specializing in PHP and Laravel. I also have expertise in the TALL stack and front-end development using Livewire and Filament to create interactive, responsive, and dynamic applications.
 
 ## Why Choose Me:
 
-Full-Stack Capability: Proficient in both back-end (PHP frameworks) and front-end (Vue.js) development, offering comprehensive web solutions.
+Full-Stack Capability: Proficient in both back-end (PHP frameworks) and front-end (Livewire) development, offering comprehensive web solutions.
 Quality and Precision: Committed to delivering superior quality websites that are both functional and aesthetically appealing.
 Collaborative Team Member: Excelling in team environments and contributing effectively to collaborative projects.
 Innovative Problem Solver: Proactively tackling challenges with creative and practical solutions.
