@@ -21,13 +21,6 @@ Regular Website Maintenance and Performance Optimization
 
 Looking for a dedicated and skilled web developer who can bring your ideas to life with cutting-edge technology? Let's discuss how we can achieve your digital objectives together.
 
-Showcasing My PHP Journey: A Collection of Practice Projects to Demonstrate My Skills and Creativity
-- <a href="https://github.com/Israrminhas1/CRM">CRM (laravel)</a>
-- <a href="https://github.com/Israrminhas1/Job-Board-API">Job Board API (Symfony)</a>
-- <a href="https://github.com/Israrminhas1/Blog-Post-API">Blog Post API (PHP)</a>
-- <a href="https://github.com/Israrminhas1/Web-Shopping">Web Shop (PHP)</a>
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ixr4r.1?igshid=YmMyMTA2M2Y=) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israrminhas99@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19577760/israr-minhas) 
