@@ -1,6 +1,6 @@
 ## ISRAR MINHAS -  PHP/Laravel Developer
 # 💫 About Me:
-Hello! I am a versatile web developer with over 5 years of experience, specializing in PHP and Laravel. I also have expertise in the TALL stack and front-end development using Livewire and Filament to create interactive, responsive, and dynamic applications.
+Hello! I am a versatile web developer with over 7 years of experience, specializing in PHP and Laravel. I also have expertise in the TALL stack and front-end development using Livewire and Filament to create interactive, responsive, and dynamic applications.
 
 ## Why Choose Me:
 
