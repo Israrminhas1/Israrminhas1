@@ -1,41 +1,25 @@
-## ISRAR MINHAS -  PHP/Laravel Developer
+## ISRAR MINHAS - Senior Full Stack Developer (PHP/Laravel · AI Agents)
+
 # 💫 About Me:
-Hello! I am a versatile web developer with over 7 years of experience, specializing in PHP and Laravel. I also have expertise in the TALL stack and front-end development using Livewire and Filament to create interactive, responsive, and dynamic applications.
+Hello! I'm a full stack developer with 7+ years of experience, specializing in PHP and Laravel with Vue, React and the TALL stack (Livewire, Filament, Tailwind). For the last two years I've been building AI into real products: agent workflows, MCP servers with proper permissions, RAG pipelines and evaluation suites that catch regressions before release. Currently Senior Full Stack Developer at SUSO Digital (UK / Poland, remote).
 
-## Why Choose Me:
+## What I Do:
 
-Full-Stack Capability: Proficient in both back-end (PHP frameworks) and front-end (Livewire) development, offering comprehensive web solutions.
-Quality and Precision: Committed to delivering superior quality websites that are both functional and aesthetically appealing.
-Collaborative Team Member: Excelling in team environments and contributing effectively to collaborative projects.
-Innovative Problem Solver: Proactively tackling challenges with creative and practical solutions.
-Technologically Inclined: Continuously updating my skill set with the latest web technologies and industry trends.
+Full-Stack Development: Laravel and MySQL/PostgreSQL on the backend, Vue, React and Next.js on the front end, end to end from data model to UI.
+AI Integration: Agent workflows (Mastra, LangGraph), MCP servers, OAuth 2.1 connectors, RAG and vector stores, LLM evals and guardrails.
+Multi-Tenant SaaS: Billing, permissions, tenant isolation, queues and real-time features that hold up under load.
+Quality: Pest, PHPUnit, PHPStan and Playwright as part of every change, not an afterthought.
+AI-Assisted Engineering: Claude Code and Codex daily, with plan review, adversarial challenge and live tests before anything merges.
 
-## My Services:
+## Open to:
 
-End-to-End Web Development using PHP frameworks.
-Interactive and Responsive Front-End Development
-Customized E-commerce, Social Networking, and Business Websites
-Regular Website Maintenance and Performance Optimization
-
-## Let's Connect:
-
-Looking for a dedicated and skilled web developer who can bring your ideas to life with cutting-edge technology? Let's discuss how we can achieve your digital objectives together.
-
+Senior full stack or backend roles in Europe (relocation, EU Blue Card eligible) or remote on European hours.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ixr4r.1?igshid=YmMyMTA2M2Y=) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israrminhas99@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19577760/israr-minhas) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israrminhas)
 
 # 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D). ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Israrminhas1&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat&logo=livewire&logoColor=white) ![Filament](https://img.shields.io/badge/filament-%23f59e0b.svg?style=flat&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Israrminhas1&icon=9&color=6)](https://visitcount.itsvg.in)
-
