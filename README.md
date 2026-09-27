@@ -11,9 +11,6 @@ Multi-Tenant SaaS: Billing, permissions, tenant isolation, queues and real-time 
 Quality: Pest, PHPUnit, PHPStan and Playwright as part of every change, not an afterthought.
 AI-Assisted Engineering: Claude Code and Codex daily, with plan review, adversarial challenge and live tests before anything merges.
 
-## Open to:
-
-Senior full stack or backend roles in Europe (relocation, EU Blue Card eligible) or remote on European hours.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israrminhas)
